@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bgSync.Android", "bgSync\bgSync.Android\bgSync.Android.csproj", "{2E4EADD8-1AC8-4E93-8C58-0F294C78AA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bgSync", "bgSync\bgSync\bgSync.csproj", "{BA1C5427-5127-4D52-9A5B-3EABF1B5DFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4EADD8-1AC8-4E93-8C58-0F294C78AA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4EADD8-1AC8-4E93-8C58-0F294C78AA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4EADD8-1AC8-4E93-8C58-0F294C78AA3D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2E4EADD8-1AC8-4E93-8C58-0F294C78AA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4EADD8-1AC8-4E93-8C58-0F294C78AA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4EADD8-1AC8-4E93-8C58-0F294C78AA3D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BA1C5427-5127-4D52-9A5B-3EABF1B5DFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1C5427-5127-4D52-9A5B-3EABF1B5DFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1C5427-5127-4D52-9A5B-3EABF1B5DFFC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BA1C5427-5127-4D52-9A5B-3EABF1B5DFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1C5427-5127-4D52-9A5B-3EABF1B5DFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1C5427-5127-4D52-9A5B-3EABF1B5DFFC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E5949F-DF98-476D-81B8-4BA71B8B63EA}
+	EndGlobalSection
+EndGlobal
